@@ -1,3 +1,3 @@
 export const baseApiURL = () => {
-  return "https://csproconnect-kbm3.onrender.com";
+  return "https://csproconnect.onrender.com/api";
 };
